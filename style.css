@@ -13,3 +13,10 @@
 body {
   font-size: 1.6rem;
 }
+
+header {
+  min-height: 53.2 rem;
+  background-color: #f8f8ff;
+  text-align: center;
+}
+
